@@ -1,10 +1,17 @@
 {
   "name": "skeletortheme",
   "displayName": "SkeletorTheme",
-  "description": "Skeletor Theme",
-  "version": "0.0.1",
+  "description": "A flat, Material Design inspired theme",
+  "author": "mhommet",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mhommet/skeletortheme"
+  },
+  "version": "0.0.2",
+  "license": "MIT",
+  "icon": "icon.png",
   "engines": {
-    "vscode": "^1.98.0"
+    "vscode": "^1.74.0"
   },
   "categories": [
     "Themes"
@@ -17,5 +24,12 @@
         "path": "./themes/SkeletorTheme-color-theme.json"
       }
     ]
-  }
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "flat",
+    "material design",
+    "skeletor"
+  ]
 }
