@@ -1,0 +1,21 @@
+{
+  "name": "skeletortheme",
+  "displayName": "SkeletorTheme",
+  "description": "Skeletor Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.98.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "SkeletorTheme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SkeletorTheme-color-theme.json"
+      }
+    ]
+  }
+}
