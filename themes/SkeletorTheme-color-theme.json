@@ -30,13 +30,13 @@
 		"titleBar.inactiveForeground": "#C0D0F0",
 		"titleBar.border": "#1E1E2E",
 		
-		"tab.activeBackground": "#493A90",
+		"tab.activeBackground": "#32344A",
 		"tab.activeForeground": "#FFFFFF",
-		"tab.inactiveBackground": "#1E1E2E",
+		"tab.inactiveBackground": "#282A36",
 		"tab.inactiveForeground": "#C0D0F0",
-		"tab.activeBorderTop": "#FAED45",
-		"tab.border": "#1E1E2E",
-		"tab.hoverBackground": "#2A2A3A",
+		"tab.activeBorderTop": "#568EFC",
+		"tab.border": "#282A36",
+		"tab.hoverBackground": "#32344A",
 		
 		"statusBar.background": "#1E1E2E",
 		"statusBar.foreground": "#FFFFFF",
