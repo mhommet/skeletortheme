@@ -11,3 +11,8 @@ A flat, dracula inspired theme with the color palette of Skeletor.
 Launch *Quick Open* (Ctrl+P), paste the following command, and press enter:
 
 
+```
+ext install skeletor-theme
+```
+
+
