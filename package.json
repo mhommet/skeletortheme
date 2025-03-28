@@ -1,13 +1,13 @@
 {
   "name": "skeletortheme",
   "displayName": "SkeletorTheme",
-  "description": "A flat, Material Design inspired theme",
+  "description": "A flat, dracula inspired theme with the color palette of Skeletor",
   "author": "mhommet",
   "repository": {
     "type": "git",
     "url": "https://github.com/mhommet/skeletortheme"
   },
-  "version": "0.0.3",
+  "version": "0.0.4",
   "license": "MIT",
   "icon": "icon.png",
   "engines": {
